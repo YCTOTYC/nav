@@ -7,7 +7,7 @@
   "description": "基础架构部导航栏",
   "keywords": "基础架构部导航栏",
   "theme": "Light",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2021 nav3.cn, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">基础架构部导航栏</div><div>基础架构部导航栏</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
@@ -21,7 +21,7 @@
       "url": ""
     }
   ],
-  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
+  "simThemeDesc": "基础架构部导航栏",
   "simThemeHeight": 300,
   "simThemeAutoplay": true,
   "homeUrl": "https://nav3.cn",
