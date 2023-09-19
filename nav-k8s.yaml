@@ -17,16 +17,9 @@ spec:
     spec:
       nodeSelector:
         tools-role: tools
-      volumes:
-      - name: nav-vol
-        persistentVolumeClaim:
-          claimName: nav-pvc
       containers:
       - name: nav
         image: ${tag}
-        volumeMounts:
-        - name: nav-vol
-          mountPath: /tqls_system/apps
         ports:
         - name: http
           containerPort: 80
